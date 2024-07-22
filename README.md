@@ -11,15 +11,15 @@
 <h3 align="left">🙋‍♀️ About Me</h3>
 
 ###
+
+<p align="left">🔭 I'm currently working on Dilligen Technologies<br>👩‍💻 Former Associate Product Engineer Intern @DeltaX</p>
+
+###
 <h3 align="left">🌐 Socials</h3>
 
 ###
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vidya-keerthi) 
-
-###
-
-<p align="left">🔭 I'm currently working on Dilligen Technologies<br>👩‍💻 Former Associate Product Engineer Intern @DeltaX</p>
 
 ###
 
