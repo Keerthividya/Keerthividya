@@ -15,6 +15,7 @@
 <p align="left">🔭 I'm currently working on Dilligen Technologies<br>👩‍💻 Former Associate Product Engineer Intern @DeltaX</p>
 
 ###
+
 <h3 align="left">🌐 Socials</h3>
 
 ###
