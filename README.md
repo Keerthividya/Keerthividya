@@ -48,7 +48,7 @@
 
 ###
 
-<h4 align="left">📊 Stats:</h4>
+<h4 align="left">📊 Stats</h4>
 
 ###
 
