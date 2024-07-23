@@ -1,9 +1,9 @@
 ###
 
-<h2 align="left">👋 Good to have you here!!</h2>
+<h2 align="center">👋 Good to have you here!!</h2>
 
 ###
-<!--ABOUT ME CODE-->
+<!--ABOUT ME -->
 
 <h4 align="left">🌱 About myself</h4>
 
@@ -11,7 +11,7 @@
 <p align="left">
   I'm Vidyakeerthi, a CSE graduate and Software Developer with expertise in full-stack web development. I thrive on creating and enhancing web applications.
 </p>
----
+
 
 ###
 <h4 align="left">💻 Tech Stack</h4>
@@ -67,7 +67,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vidya-keerthi) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:keerthividya321@gmail.com)
 
----
 
 
 
