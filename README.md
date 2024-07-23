@@ -13,7 +13,7 @@
 ###
 
 <p align="left">
-  🔭 I'm Vidyakeerthi, a Software Developer and CSE graduate with solid experience in full-stack web development. I thrive on creating and enhancing web applications.
+  I'm Vidyakeerthi, a CSE graduate and Software Developer with expertise in full-stack web development. I thrive on creating and enhancing web applications.
 </p>
 
 ###
