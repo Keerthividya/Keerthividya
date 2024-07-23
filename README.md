@@ -3,26 +3,46 @@
 <h2 align="left">👋 Good to have you here!!</h2>
 
 ###
-
-<p align="left"></p>
-
-###
+<!--ABOUT ME CODE-->
 
 <h4 align="left">🌱 About myself</h4>
 
 ###
 
 <p align="left">
-  I'm Vidyakeerthi, a CSE graduate and Software Developer with expertise in full-stack web development. I thrive on creating and enhancing web applications.
+  I'm **Vidyakeerthi**, a CSE graduate and Software Developer with expertise in full-stack web development. I thrive on creating and enhancing web applications.
 </p>
+---
+<!-- SOCAIL MEDIA HANDLES -->
+###
+<h4 align="left">📬 Reach me out</h4>
 
 ###
 
+[![LinkedIn](https://img.shields.io/badge/vidya-keerthi-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vidya-keerthi) 
+[![Email](https://img.shields.io/badge/keerthividya321@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:keerthividya321@gmail.com)
+
+---
+<!-- STATISTICS ABOUT PROFILE -->
+###
+<h4 align="left">📊 Stats</h4>
+
+###
+
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Keerthividya&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+<!--  CONTRIBUTION AND STREAK BLOCK -->
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Keerthividya&theme=default&hide_border=false)<br/>
+
+---
+###
 <h4 align="left">💻 Tech Stack</h4>
 
 ###
 <h6>Languages:</h6>
-
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ###
@@ -45,26 +65,8 @@
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 
-
 ###
-
-<h4 align="left">📊 Stats</h4>
-
-###
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Keerthividya&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Keerthividya&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
 
 
 
-###
-
-<h4 align="left">📬 Reach me out</h4>
-
-###
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vidya-keerthi) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:keerthividya321@gmail.com)
-
-
-###
