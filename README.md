@@ -48,10 +48,12 @@
 
 ###
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=keerthividya&theme=gotham)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=keerthividya&theme=gotham)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=keerthividya&theme=gotham&utcOffs)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Keerthividya&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=keerthividya&theme=default&utcOffs)
+---
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Keerthividya&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 <!--  CONTRIBUTION AND STREAK BLOCK -->
