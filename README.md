@@ -49,6 +49,8 @@
 ###
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=keerthividya&theme=gotham)
+
+---
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=keerthividya&theme=gotham)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=keerthividya&theme=gotham&utcOffs)
 
@@ -58,7 +60,7 @@
 ---
 <!--  CONTRIBUTION AND STREAK BLOCK -->
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Keerthividya&theme=default&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Keerthividya&theme=gotham&hide_border=false)<br/>
 
 ---
 <!-- SOCAIL MEDIA HANDLES -->
