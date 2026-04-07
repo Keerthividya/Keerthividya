@@ -17,7 +17,7 @@
 <h4 align="left">💻 Tech Stack</h4>
 
 ###
-<h6>Web Technologies:</h6>
+<h6>Frontend (Web Technologies):</h6>
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
@@ -30,9 +30,15 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ###
+<h6>Backend:</h6>
+
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+
+###
 <h6>Database:</h6>
 
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 ###
 <h6>Design:</h6>
@@ -55,7 +61,6 @@
 ![SQL Server Management Studio](https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Lucidchart](https://img.shields.io/badge/Lucidchart-F58220?style=for-the-badge&logo=lucidchart&logoColor=white)
 ![Taiga](https://img.shields.io/badge/taiga-%232A6F94.svg?style=for-the-badge&logo=taiga&logoColor=white)
-
 
 ###
 ---
